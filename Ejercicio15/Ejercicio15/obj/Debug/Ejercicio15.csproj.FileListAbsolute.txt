@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Guia Ejercicios\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Guia Ejercicios\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Guia Ejercicios\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+C:\Users\Usuario\source\repos\Guia Ejercicios\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe
+C:\Users\Usuario\source\repos\Guia Ejercicios\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.pdb
+C:\Users\Usuario\source\repos\Guia Ejercicios\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.exe
+C:\Users\Usuario\source\repos\Guia Ejercicios\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.pdb

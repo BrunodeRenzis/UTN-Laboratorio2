@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{61C3403B-BB90-47F1-9595-5AA40E9D6473}</ProjectGuid>
+    <ProjectGuid>{0B877706-511C-4D35-AB9E-FBD09D324C23}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercicio12</RootNamespace>
-    <AssemblyName>Ejercicio12</AssemblyName>
+    <RootNamespace>Ejercicio13</RootNamespace>
+    <AssemblyName>Ejercicio13</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conversor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ValidaRespuesta.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
